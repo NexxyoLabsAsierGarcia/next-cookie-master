@@ -19,7 +19,7 @@ export const Navbar = () => {
 
         <div style={{ flex: 1}} />
 
-        <NextLink href="/theme-changer" passHref>
+        <NextLink href="/theme-changer" passHref legacyBehavior>
           <Link>
             <Typography variant="h6" color="white">Change Theme</Typography>
           </Link>

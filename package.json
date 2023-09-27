@@ -13,13 +13,16 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.11",
     "@mui/material": "^5.14.11",
+    "axios": "^1.5.1",
     "install": "^0.13.0",
+    "js-cookie": "^3.0.5",
     "next": "latest",
     "npm": "^10.1.0",
     "react": "latest",
     "react-dom": "latest"
   },
   "devDependencies": {
+    "@types/js-cookie": "^3.0.4",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
